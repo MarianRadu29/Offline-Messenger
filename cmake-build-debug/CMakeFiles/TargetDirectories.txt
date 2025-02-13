@@ -1,0 +1,3 @@
+/home/marianradu/Desktop/Retele/offline_messenger/cmake-build-debug/CMakeFiles/offline_messenger.dir
+/home/marianradu/Desktop/Retele/offline_messenger/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marianradu/Desktop/Retele/offline_messenger/cmake-build-debug/CMakeFiles/rebuild_cache.dir
